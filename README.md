@@ -10,8 +10,10 @@ Library Numpy berguna untuk mempermudah dalam melakukan oprasi dalam matriks
 Library matplotlib berguna untuk memvisualisasikan dari data yang ada serta memvisualisasikan garis regresi linier
 
 ### Pembagian Tugas
->- Muhammad Avtara Khrisna 
-Gradient Descent
+>- Muhammad Avtara Khrisna | Gradient Descent
+>- Joshua | Computer Cost
+>- Arya Pangestu | Versi code tanpa numpy
+>- Fareza | Merapikan code
 
 ### Tutorial
 > - git clone repository
