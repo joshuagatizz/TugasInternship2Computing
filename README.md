@@ -13,14 +13,14 @@ Library matplotlib berguna untuk memvisualisasikan dari data yang ada serta memv
 >- Muhammad Avtara Khrisna 
 Gradient Descent
 
-###Tutorial
+### Tutorial
 > - git clone repository
-- open your directory repo
-- open jupyter lab / jupyter notebook
-- run all command
+>- open your directory repo
+>- open jupyter lab / jupyter notebook
+>- run all command
 
 ### Hasil
 > Hasil yang didapat dari project ini adalah kita dapat menentukan profit terbaik berdasarkan data-data yang sudah ada.
 
-###Kesimpulan
+### Kesimpulan
 > Regresi digunakan untuk melihat bentuk hubungan antar variabel melalui suatu persamaan. Hubungannya  bisa berupa hubungan sebab akibat selain itu juga dapat mengukur seberapa besar suatu variabel mempengaruhi variabel lain dan dapat digunakan untuk melakukan peramalan nilai suatu variabel berdasarkan variabel lain. Regresi Linier adalah dasar dari permodelan Machine Learning
