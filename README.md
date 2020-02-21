@@ -6,7 +6,7 @@
 ### Plugin
 >- Numpy
 Library Numpy berguna untuk mempermudah dalam melakukan oprasi dalam matriks
-- matplotlib
+>- matplotlib
 Library matplotlib berguna untuk memvisualisasikan dari data yang ada serta memvisualisasikan garis regresi linier
 
 ### Pembagian Tugas
